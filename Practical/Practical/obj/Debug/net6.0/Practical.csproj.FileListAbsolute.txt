@@ -1,0 +1,15 @@
+C:\Users\Den\source\repos\Practical\Practical\bin\Debug\net6.0\Practical.exe
+C:\Users\Den\source\repos\Practical\Practical\bin\Debug\net6.0\Practical.deps.json
+C:\Users\Den\source\repos\Practical\Practical\bin\Debug\net6.0\Practical.runtimeconfig.json
+C:\Users\Den\source\repos\Practical\Practical\bin\Debug\net6.0\Practical.dll
+C:\Users\Den\source\repos\Practical\Practical\bin\Debug\net6.0\ref\Practical.dll
+C:\Users\Den\source\repos\Practical\Practical\bin\Debug\net6.0\Practical.pdb
+C:\Users\Den\source\repos\Practical\Practical\obj\Debug\net6.0\Practical.csproj.AssemblyReference.cache
+C:\Users\Den\source\repos\Practical\Practical\obj\Debug\net6.0\Practical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Den\source\repos\Practical\Practical\obj\Debug\net6.0\Practical.AssemblyInfoInputs.cache
+C:\Users\Den\source\repos\Practical\Practical\obj\Debug\net6.0\Practical.AssemblyInfo.cs
+C:\Users\Den\source\repos\Practical\Practical\obj\Debug\net6.0\Practical.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\Practical\Practical\obj\Debug\net6.0\Practical.dll
+C:\Users\Den\source\repos\Practical\Practical\obj\Debug\net6.0\ref\Practical.dll
+C:\Users\Den\source\repos\Practical\Practical\obj\Debug\net6.0\Practical.pdb
+C:\Users\Den\source\repos\Practical\Practical\obj\Debug\net6.0\Practical.genruntimeconfig.cache
